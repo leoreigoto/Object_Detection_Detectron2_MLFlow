@@ -8,7 +8,7 @@ SSD, Detectron 2, RetinaNet, MLFlow, Pytorch
 
 Detection Video:
 
-[![Vehicle plate detection_video](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/a4d4c26e-1583-4875-a48f-78854fdd825d)](https://youtu.be/9CXzoeELtys?t=4 "Vehicle plate detection_video")
+[![Vehicle plate detection_video](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/e7ab4286-7482-40ef-9bab-8d50b6fddc2f)](https://youtu.be/2uCMVJ7B49E?t=2 "Vehicle plate detection_video")
 
 
 Mlflow logs:
